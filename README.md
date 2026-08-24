@@ -87,6 +87,6 @@ Code and NASA POWER-derived data are released under the [MIT License](LICENSE). 
 If you use this code or data, please cite the paper above and this repository:
 
 ```
-Alkaf ZZ et al. (2026) PVIRI analysis code and data (v2.0.0) [Software].
-Zenodo. https://doi.org/10.5281/zenodo.20180215
+Alkaf ZZ et al. (2026) PVIRI analysis code and data (v3.0.0) [Software].
+Zenodo. https://doi.org/10.5281/zenodo.22078597
 ```
